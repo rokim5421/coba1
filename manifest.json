@@ -1,0 +1,39 @@
+
+{
+  "name": "SAB - SOFTWARE",
+  "short_name": "sab-soft",
+  "start_url": "https://sab-soft.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#89712b",
+  "description": "Tempat download software full version terbaru gratis, dilengkapi dengan software aktivasi. Diserta cara instalasi dan link download yang berkualitas.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-RVcqvOnBV_o/W5kwD-WqrcI/AAAAAAAACx4/hrOQMv2dlxQU4bKWhAVWqKfX7VwBBKWjgCLcBGAs/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-BMw8cA0XlLc/W5kwGnTRGNI/AAAAAAAACyM/D6fPtymglXUZ9DKc5B3U534RzwrDUMIZgCLcBGAs/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-P6RrhqxMZOI/W5kwGZq75MI/AAAAAAAACyI/zqB1EX7clBM9bcTg9UQQQ_nUe3VABJe2QCLcBGAs/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-nuqoqT7Ilvg/W5kwFHyOZYI/AAAAAAAACx8/8HkYcRZ57dcSxQNkWgj05arwOP_HLT8ywCLcBGAs/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-GXf6VvstLfo/W5kwFEl7Q0I/AAAAAAAACyA/C-JokRTQ1I02neq7x93Lr40q-YTCoKy1QCLcBGAs/s1600/android-icon-168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-128g87rkfF0/W5kwGIIDztI/AAAAAAAACyE/_oPXpobbYZAQBNm_4nPED3q0fiGEzGuegCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-EIsqEaau840/W5kwKurO5vI/AAAAAAAACyQ/Wlq2JmPFxgsKkuoo5xh-EHXA9Dci-ObnQCLcBGAs/s1600/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
