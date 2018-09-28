@@ -1,38 +1,37 @@
-
 {
-  "name": "SAB - SOFTWARE",
-  "short_name": "sab-soft",
-  "start_url": "https://sab-soft.blogspot.com/",
+  "name": "NR SERVICE",
+  "short_name": "NR",
+  "start_url": "https://nr-service.blogspot.com/",
   "display": "standalone",
-  "background_color": "#000",
-  "theme_color": "#89712b",
-  "description": "Tempat download software full version terbaru gratis, dilengkapi dengan software aktivasi. Diserta cara instalasi dan link download yang berkualitas.",
+  "background_color": "#fff",
+  "theme_color": "#f84272",
+  "description": "Tempat berbagi pengalaman saya dalam service benda elektronik seperti Laptop, TV, Handphone, Tab, Smartphone, dll.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-RVcqvOnBV_o/W5kwD-WqrcI/AAAAAAAACx4/hrOQMv2dlxQU4bKWhAVWqKfX7VwBBKWjgCLcBGAs/s1600/android-icon-48x48.png",
+    "src": "https://4.bp.blogspot.com/-UE8lYMy_2Eg/W64JkNFkzoI/AAAAAAAAC-Y/J3D0KXNN5RcjXQlgDZwPSvBIeRLiHdwXgCLcBGAs/s1600/nr-72-min.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-BMw8cA0XlLc/W5kwGnTRGNI/AAAAAAAACyM/D6fPtymglXUZ9DKc5B3U534RzwrDUMIZgCLcBGAs/s1600/android-icon-72x72.png",
+    "src": "https://4.bp.blogspot.com/-UE8lYMy_2Eg/W64JkNFkzoI/AAAAAAAAC-Y/J3D0KXNN5RcjXQlgDZwPSvBIeRLiHdwXgCLcBGAs/s1600/nr-72-min.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-P6RrhqxMZOI/W5kwGZq75MI/AAAAAAAACyI/zqB1EX7clBM9bcTg9UQQQ_nUe3VABJe2QCLcBGAs/s1600/android-icon-96x96.png",
+    "src": "https://2.bp.blogspot.com/-8MYoNapnFZA/W64JkYNz0DI/AAAAAAAAC-c/qwpJTMeQBac4EOHP751ajavo_pMVv8R1ACLcBGAs/s1600/nr-96-min.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-nuqoqT7Ilvg/W5kwFHyOZYI/AAAAAAAACx8/8HkYcRZ57dcSxQNkWgj05arwOP_HLT8ywCLcBGAs/s1600/android-icon-144x144.png",
+    "src": "https://4.bp.blogspot.com/-qkXEuVKov48/W64Ji0yEPgI/AAAAAAAAC-A/6ekUJj5OZB0A8wZ3RTsNcsyutifa82BTQCLcBGAs/s1600/nr-144-min.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-GXf6VvstLfo/W5kwFEl7Q0I/AAAAAAAACyA/C-JokRTQ1I02neq7x93Lr40q-YTCoKy1QCLcBGAs/s1600/android-icon-168x168.png",
+    "src": "https://2.bp.blogspot.com/-0X4zUN_e0tg/W64Ji3sVDhI/AAAAAAAAC-E/iSzH9_e168sXxunWBYX04SxgOhREtIq4wCLcBGAs/s1600/nr-168-min.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-128g87rkfF0/W5kwGIIDztI/AAAAAAAACyE/_oPXpobbYZAQBNm_4nPED3q0fiGEzGuegCLcBGAs/s1600/android-icon-192x192.png",
+    "src": "https://2.bp.blogspot.com/-iT2SG1VwJpU/W64JjkBFqfI/AAAAAAAAC-I/U2iD_8DpRy0bEZJI6qEoMg0Wqs5jh2OLQCLcBGAs/s1600/nr-192-min.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-EIsqEaau840/W5kwKurO5vI/AAAAAAAACyQ/Wlq2JmPFxgsKkuoo5xh-EHXA9Dci-ObnQCLcBGAs/s1600/logo.png",
+    "src": "https://1.bp.blogspot.com/-O1JlxaUvjq0/W64JkOt5F-I/AAAAAAAAC-U/Cm615JZKCx4dHqghg2g_KwEmynn8NcpagCLcBGAs/s320/nr-512-min.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
